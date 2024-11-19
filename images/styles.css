@@ -547,6 +547,7 @@ body{
     position: relative;
     background: #1f1c2f;
     overflow: hidden;
+     overflow-x: hidden;
   }
 
   .middle-info{
