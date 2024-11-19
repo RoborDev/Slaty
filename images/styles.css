@@ -550,9 +550,9 @@ body{
  }
 
 
-@media(min-width:381px) and (max-width: 730px){
+@media(min-width:388px) and (max-width: 730px){
   .main-body{
-    width: 518px;
+    width: 318px;
     height: 1490px;
     position: relative;
     background: #1f1c2f;
