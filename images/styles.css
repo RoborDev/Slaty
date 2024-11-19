@@ -542,7 +542,7 @@ body{
 
 @media(min-width:388px) and (max-width: 730px){
   .main-body{
-    width: 385px;
+    width: 395px;
     height: 1180px;
     position: relative;
     background: #1f1c2f;
